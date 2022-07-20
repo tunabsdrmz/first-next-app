@@ -21,10 +21,11 @@ function About() {
             src={avatar}
             layout="responsive"
             className='rounded-lg w-full h-full '
+            alt="//"
             />
            </div>
            <div className='mt-5 w-3/4 md:mt-4 xl:w-3/4 2xl:max-w-3xl '>
-            <p className='text-[#B0CFDC] text-center text-lg lg:text-2xl font-josefin'>I am Tuna, I’m from Turkey. I love coding because I get obsessed when I want something and fail. That's why I was able to get to the job-ready level within 6 months. As an extra, I like to play frp and go to the gym.</p>
+            <p className='text-[#B0CFDC] text-center text-lg lg:text-2xl font-josefin'>I am Tuna, I’m from Turkey. I love coding because I get obsessed when I want something and fail. That’s why I was able to get to the job-ready level within 6 months. As an extra, I like to play frp and go to the gym.</p>
            </div>
            </div>  
            <div className='w-4/5 flex mt-7 mb-2 lg:mb-4 xl:mt-0'>
@@ -37,24 +38,28 @@ function About() {
             width={40}
             height={40}
             className='hover:scale-105'
+            alt="//"
             />
             <Image 
             src={css}
             width={40}
             height={40}
             className='hover:scale-105'
+            alt="//"
             />
             <Image 
             src={js}
             width={40}
             height={40}
             className='hover:scale-105'
+            alt="//"
             />
             <Image 
             src={react}
             width={40}
             height={40}
             className='hover:scale-105'
+            alt="//"
             /> 
             </div>
            <div className='flex items-center justify-around px-2 xl:px-0 xl:gap-6'>
@@ -63,24 +68,28 @@ function About() {
             width={40}
             height={40}
             className='hover:scale-105'
+            alt="//"
             />
             <Image 
             src={tailw}
             width={40}
             height={40}
             className='hover:scale-105'
+            alt="//"
             />
             <Image 
             src={figma}
             width={40}
             height={40}
             className='hover:scale-105'
+            alt="//"
             />
             <Image 
             src={git}
             width={40}
             height={40}
             className='hover:scale-105'
+            alt="//"
             />
            </div>
             

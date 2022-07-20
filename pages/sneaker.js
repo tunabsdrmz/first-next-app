@@ -18,6 +18,7 @@ function sneaker() {
        src={arrow}
        height={30}
        width={50}
+       alt="//"
        />
         <Link href="/">
             <a className='text-2xl font-league w-full'> Go back</a>
@@ -26,7 +27,7 @@ function sneaker() {
     
     </div>
     <h1 className='text-left pl-5 mb-10 lg:text-center lg:pl-0 text-4xl lg:text-5xl  text-[#B0CFDC] font-league'>Sneaker App</h1>
-    <h2 className='text-[#B0CFDC] text-left pl-5 mb-10 lg:text-center lg:pl-0 text-lg lg:text-xl font-josefin'>In this project i learned how to do a hamburger menu in react and how to use id's for active elements. </h2>
+    <h2 className='text-[#B0CFDC] text-left pl-5 mb-10 lg:text-center lg:pl-0 text-lg lg:text-xl font-josefin'>In this project i learned how to do a hamburger menu in react and how to use id’s for active elements. </h2>
     <div className='flex flex-wrap items-center justify-center gap-7 w-full'>
         <div className='bg-[url("../assets/sneaker-splash.png")]  bg-contain bg-center bg-no-repeat  w-11/12 h-48  rounded-t-lg  md:h-96  max-w-3xl '></div>
         <div className='bg-[url("../assets/sneaker-splash-2.png")]  bg-contain bg-center bg-no-repeat  w-11/12 h-48  rounded-t-lg  md:h-96  max-w-3xl '></div>

@@ -17,6 +17,7 @@ function room() {
        src={arrow}
        height={30}
        width={50}
+       alt="//"
        />
         <Link href="/">
             <a className='text-2xl font-league w-full'> Go back</a>

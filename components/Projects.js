@@ -16,7 +16,7 @@ function Projects() {
             </div>
             <div className='flex w-full h-10 md:h-16 font-league'>
               <div className='w-2/4 text-2xl rounded-bl-lg border-r-8 flex items-center justify-center cursor-pointer border-[#0a66c2] bg-[#0e5fb1] hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><Link href="/sneaker"><a className='w-full text-center'>See more</a></Link> </div> 
-              <div className='w-2/4 text-2xl rounded-br-lg bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><a href='https://github.com/tunabsdrmz/sneaker-app-last-version' target={'_blank'} className='w-full text-center'>Code</a></div>
+              <div className='w-2/4 text-2xl rounded-br-lg bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><a href='https://github.com/tunabsdrmz/sneaker-app-last-version' target={'_blank'} rel="noreferrer" className='w-full text-center'>Code</a></div>
             </div>
             
         </div>
@@ -25,7 +25,7 @@ function Projects() {
         <div className='bg-[url("../assets/countries-splash.png")] bg-[#f4f4f4] bg-contain bg-center bg-no-repeat  w-full h-40 rounded-t-lg md:h-80'></div>
             <div className='flex w-full h-10 md:h-16 font-league'>
               <div className='w-2/4 text-2xl rounded-bl-lg border-r-8 bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><Link href="/countries"><a className='w-full text-center'>See more</a></Link></div>  
-              <div className='w-2/4 text-2xl rounded-br-lg bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><a href='https://github.com/tunabsdrmz/countries-app' target={'_blank'} className='w-full text-center'>Code</a></div>
+              <div className='w-2/4 text-2xl rounded-br-lg bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><a href='https://github.com/tunabsdrmz/countries-app' target={'_blank'} rel="noreferrer" className='w-full text-center'>Code</a></div>
             </div>
         </div>
 
@@ -33,7 +33,7 @@ function Projects() {
         <div className='bg-[url("../assets/weather-splash.png")] bg-[#ffffff] bg-cover bg-center bg-no-repeat  w-full h-40 rounded-t-lg md:h-80'></div>
             <div className='flex w-full h-10 md:h-16 font-league'>
               <div className='w-2/4 text-2xl rounded-bl-lg border-r-8 bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><Link href="/weather"><a className='w-full text-center'>See more</a></Link></div>  
-              <div className='w-2/4 text-2xl rounded-br-lg bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><a href='https://github.com/tunabsdrmz/weather-app' target={'_blank'} className='w-full text-center'>Code</a></div>
+              <div className='w-2/4 text-2xl rounded-br-lg bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><a href='https://github.com/tunabsdrmz/weather-app' target={'_blank'} rel="noreferrer" className='w-full text-center'>Code</a></div>
             </div>
         </div>
 
@@ -41,7 +41,7 @@ function Projects() {
         <div className='bg-[url("../assets/room-splash.png")] bg-[#eaeaeac9] bg-contain bg-center bg-no-repeat  w-full h-40 rounded-t-lg md:h-80'></div>
             <div className='flex w-full h-10 md:h-16 font-league'>
               <div className='w-2/4 text-2xl rounded-bl-lg border-r-8 bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><Link href="/room"><a className='w-full text-center'>See more</a></Link></div>  
-              <div className='w-2/4 text-2xl rounded-br-lg bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><a href='https://github.com/tunabsdrmz/room-homepage' target={'_blank'} className='w-full text-center'>Code</a></div>
+              <div className='w-2/4 text-2xl rounded-br-lg bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><a href='https://github.com/tunabsdrmz/room-homepage' target={'_blank'} rel="noreferrer" className='w-full text-center'>Code</a></div>
             </div>
         </div>
         </div>
