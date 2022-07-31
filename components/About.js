@@ -11,7 +11,7 @@ import figma from "../assets/LogosFigma.svg"
 import git from "../assets/LogosGitIcon.svg"
 function About() {
   return (
-    <div className='flex flex-col items-center justify-around  w-full h-screen bg-[url("../assets/rotated-bg.jpg")] bg-cover xl:h-max'>
+    <div className='flex flex-col items-center justify-around  w-full h-screen bg-[url("/rotated-bg.jpg")] bg-cover xl:h-max'>
            <div className='w-4/5 flex mb-4 xl:mb-0 xl:mt-7'>
                 <h3 className='font-league  text-gray-300 text-3xl lg:text-4xl'>About Me</h3> 
            </div>

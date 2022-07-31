@@ -3,10 +3,11 @@ import React from 'react'
 import İn from "../assets/LogosLinkedinIcon.svg"
 import github from "../assets/LogosGithubIcon.svg"
 import mail from "../assets/LogosGoogleGmail.svg"
+
 function Main() {
  
   return (
-    <div className='flex flex-col items-center justify-center w-full h-screen bg-[url("../assets/pexels-adrien-olichon-2387793.jpg")] bg-cover'> 
+    <div className='flex flex-col items-center justify-center w-full h-screen bg-[url("/pexels-adrien-olichon-2387793.jpg")] bg-cover'> 
       <h1 className='text-6xl lg:text-7xl text-[#B0CFDC]  font-league  '>TUNA BOŞDURMAZ</h1>
       <h3 className='text-3xl lg:text-4xl  text-[#B0CFDC] font-josefin'>Front-End Developer</h3>
       <div className='flex gap-4 mt-4 lg:mt-5'>
