@@ -30,18 +30,18 @@ function Projects() {
         </div>
 
         <div className='flex flex-col items-center w-4/5 h-52 md:h-96  max-w-lg xl:hover:scale-95 transition-all'>
-        <div className='bg-[url("/weather-splash.png")] bg-[#ffffff] bg-cover bg-center bg-no-repeat  w-full h-40 rounded-t-lg md:h-80'></div>
+        <div className='bg-[url("/airbnb.png")] bg-[#ffffff] bg-contain bg-center bg-no-repeat  w-full h-40 rounded-t-lg md:h-80'></div>
             <div className='flex w-full h-10 md:h-16 font-league'>
-              <div className='w-2/4 text-2xl rounded-bl-lg border-r-8 bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><Link href="/weather"><a className='w-full text-center'>See more</a></Link></div>  
-              <div className='w-2/4 text-2xl rounded-br-lg bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><a href='https://github.com/tunabsdrmz/weather-app' target={'_blank'} rel="noreferrer" className='w-full text-center'>Code</a></div>
+              <div className='w-2/4 text-2xl rounded-bl-lg border-r-8 bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><a target='_blank' rel="noreferrer" href="https://airbnb-clone-ten-eta.vercel.app" className='w-full text-center'>See more</a></div>  
+              <div className='w-2/4 text-2xl rounded-br-lg bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><a href='https://github.com/tunabsdrmz/Air-Bnb-Clone' target='_blank' rel="noreferrer" className='w-full text-center'>Code</a></div>
             </div>
         </div>
 
         <div className='flex flex-col items-center w-4/5 h-52 md:h-96  max-w-lg xl:hover:scale-95 transition-all'>
-        <div className='bg-[url("/room-splash.png")] bg-[#eaeaeac9] bg-contain bg-center bg-no-repeat  w-full h-40 rounded-t-lg md:h-80'></div>
+        <div className='bg-[url("/hulu.png")] bg-[#191438c9] bg-cover bg-center bg-no-repeat  w-full h-40 rounded-t-lg md:h-80'></div>
             <div className='flex w-full h-10 md:h-16 font-league'>
-              <div className='w-2/4 text-2xl rounded-bl-lg border-r-8 bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><Link href="/room"><a className='w-full text-center'>See more</a></Link></div>  
-              <div className='w-2/4 text-2xl rounded-br-lg bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><a href='https://github.com/tunabsdrmz/room-homepage' target={'_blank'} rel="noreferrer" className='w-full text-center'>Code</a></div>
+              <div className='w-2/4 text-2xl rounded-bl-lg border-r-8 bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><a target='_blank' rel="noreferrer" href="https://hulu-clone-two-rouge.vercel.app" className='w-full text-center'>See more</a></div>  
+              <div className='w-2/4 text-2xl rounded-br-lg bg-[#0e5fb1] flex items-center justify-center border-[#0a66c2] cursor-pointer hover:bg-[#0a66c287] text-[#021128] hover:text-slate-200'><a href='https://github.com/tunabsdrmz/Hulu' target='_blank' rel="noreferrer" className='w-full text-center'>Code</a></div>
             </div>
         </div>
         </div>
